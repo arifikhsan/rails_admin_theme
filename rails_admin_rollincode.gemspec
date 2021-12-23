@@ -5,11 +5,11 @@ require 'rails_admin_rollincode/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = 'rails_admin_rollincode'
+  s.name        = 'rails_admin_rollincode_arifikhsan'
   s.version     = RailsAdminRollincode::VERSION
   s.authors     = ['KOVACS Nicolas', 'VIDEAUD Matthieu']
   s.email       = ['pro.nicovak@gmail.com']
-  s.homepage    = 'https://github.com/rollincode/rails_admin_theme'
+  s.homepage    = 'https://github.com/arifikhsan/rails_admin_rollincode'
   s.summary     = 'Rails_Admin FLAT theme overhaul'
   s.description = 'Rails_Admin FLAT theme overhaul'
   s.license     = 'MIT'
