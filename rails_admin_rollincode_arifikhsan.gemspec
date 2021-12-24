@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminRollincode::VERSION
   s.authors     = ['KOVACS Nicolas', 'VIDEAUD Matthieu']
   s.email       = ['pro.nicovak@gmail.com']
-  s.homepage    = 'https://github.com/arifikhsan/rails_admin_rollincode'
+  s.homepage    = 'https://github.com/arifikhsan/rails_admin_theme'
   s.summary     = 'Rails_Admin FLAT theme overhaul'
   s.description = 'Rails_Admin FLAT theme overhaul'
   s.license     = 'MIT'
